@@ -3,10 +3,13 @@ SITENAME = 'brasstistics'
 SITEURL = ""
 
 PATH = "content"
-
 TIMEZONE = 'Europe/London'
+DEFAULT_LANG = 'en'
 
-DEFAULT_LANG = 'English'
+THEME = 'notmyidea'
+
+DEFAULT_PAGINATION = 10
+RELATIVE_URLS = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
