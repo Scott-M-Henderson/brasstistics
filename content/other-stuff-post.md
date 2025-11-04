@@ -2,7 +2,7 @@ Title: Brass-ed From the Past
 Date: 2025-11-03
 Category: News
 Tags: brass band; contests; concerts; travel;
-Slug: content
+Slug: launch
 Authors: Scott Henderson
 Summary: Post two. Anything but maths.
 
