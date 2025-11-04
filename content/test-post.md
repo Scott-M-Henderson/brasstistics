@@ -4,6 +4,6 @@ Category: News
 Tags: launch; brass band; stats
 Slug: launch
 Authors: Scott Henderson
-Summary: The test post of a blog dedicated to brass band statistics.
+Summary: Brass meets stats
 
 Welcome to \*\*Brasstistics\*\* — a home for analysis and visualization of brass band results!
