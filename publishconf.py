@@ -17,7 +17,9 @@ CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THEME = 'themes/notmyidea-cms'
+THEME = 'pelican-themes/notmyidea-cms'
+
+STATIC_PATHS = ['images', 'extra']
 
 # Following items are often useful when publishing
 

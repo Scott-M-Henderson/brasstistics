@@ -6,7 +6,7 @@ PATH = "content"
 TIMEZONE = 'Europe/London'
 DEFAULT_LANG = 'en'
 
-THEME = 'themes/notmyidea-cms'
+THEME = 'pelican-themes/notmyidea-cms'
 
 DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
@@ -31,6 +31,8 @@ SOCIAL = (
     ("You can add links in your config file", "#"),
     ("Another social link", "#"),
 )
+
+STATIC_PATHS = ['images', 'extra']
 
 DEFAULT_PAGINATION = 10
 
