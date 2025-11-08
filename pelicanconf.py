@@ -6,7 +6,7 @@ PATH = "content"
 TIMEZONE = 'Europe/London'
 DEFAULT_LANG = 'en'
 
-THEME = 'notmyidea'
+THEME = 'pelican-themes/notmyidea-cms'
 
 DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
