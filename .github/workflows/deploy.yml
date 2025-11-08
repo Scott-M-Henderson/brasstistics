@@ -22,7 +22,7 @@ jobs:
 
       - name: Build site
         run: |
-          pelican content -o output -s pelicanconf.py
+          pelican content -o output -s publishconf.py
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
