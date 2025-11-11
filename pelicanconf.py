@@ -33,6 +33,7 @@ SOCIAL = (
 )
 
 STATIC_PATHS = ['images', 'extra']
+THEME_STATIC_PATHS = ['static']
 
 DEFAULT_PAGINATION = 10
 
