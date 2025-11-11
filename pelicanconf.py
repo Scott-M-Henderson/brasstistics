@@ -36,9 +36,6 @@ STATIC_PATHS = ['images', 'extra']
 
 EXTRA_PATH_METADATA = {
     'extra/BS_Logo.ico': {'path': 'favicon.ico'},
-    # Keep any other extra files you need, e.g.,
-    'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/CNAME': {'path': 'CNAME'},
 }
 
 DEFAULT_PAGINATION = 10
