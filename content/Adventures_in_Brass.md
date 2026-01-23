@@ -3,23 +3,21 @@ Date: 2026-01-10
 Category: News
 Tags: brass band, stats, Brass in Concert, BIC, Areas
 Slug: east-to-west
-
 Author: Scott Henderson
 Summary: Brass in Concert to The Areas - My contest reeducation
-
 Despite many trips to UniBrass and Whit Friday, 2024-25 was the first year I began to attend the key contests that form the backbone of the banding calendar. It all started when my band Lancaster University won the shield award at UniBrass 2024 in Warwick. In turn, this led to us being invited up to be the Brass in Concert reception band in November 2024. I'm ashamed to say it now given how impactful the event is but it was my first time hearing of BIC (other than the pen...) but I will allow myself some slack given I am a first generation bander trained in a north west non-contesting band. I have to say however that looking back it was well worth the slow cross rail train up to the toon and that it has started a chain reaction which is still in full effect.
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass\_Adventures/Bridge1.png" alt="BIC 0" style="height:300px;">
+        <img src="images/Brass_Adventures/Bridge1.png" alt="BIC 0" style="height:220px;">
         <p style="text-align:center;">Tyne Bridge and the Glasshouse (Sage). 1</p>
     </div>
     <div>
-        <img src="images/Brass\_Adventures/Bridge2.png" alt="BIC 1" style="height:300px;">
+        <img src="images/Brass_Adventures/Bridge2.png" alt="BIC 1" style="height:220px;">
         <p style="text-align:center;">Night mode. 2</p>
     </div>
     <div>
-        <img src="images/Brass\_Adventures/Bus.png" alt="BIC 2" style="height:300px;">
+        <img src="images/Brass_Adventures/Bus.png" alt="BIC 2" style="height:220px;">
         <p style="text-align:center;">Trip sponsored by Go North East. 3</p>
     </div>
 </div>
@@ -28,11 +26,11 @@ After arriving to the Glasshouse (previously The Sage) our band played a set cov
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass\_Adventures/ULMSBB1.png" alt="BIC 3" style="height:300px;">
+        <img src="images/Brass_Adventures/ULMSBB1.png" alt="BIC 3" style="height:280px;">
         <p style="text-align:center;">ULMS Brass Band in the atrium. 1</p>
     </div>
     <div>
-        <img src="images/Brass\_Adventures/ULMSBB2.png" alt="BIC 4" style="height:300px;">
+        <img src="images/Brass_Adventures/ULMSBB2.png" alt="BIC 4" style="height:280px;">
         <p style="text-align:center;">ULMS Brass Band performing. 2</p>
     </div>
 </div>
@@ -41,11 +39,11 @@ The rest of the day was spent in the hall very close to the contest action. Had 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass\_Adventures/On\_Stage.png" alt="BIC 5" style="height:300px;">
+        <img src="images/Brass_Adventures/On_Stage.png" alt="BIC 5" style="height:280px;">
         <p style="text-align:center;">Plenty of brass fish in the sea. But they didn't cast the net very far. 1</p>
     </div>
     <div>
-        <img src="images/Brass\_Adventures/Stage.png" alt="BIC 6" style="height:300px;">
+        <img src="images/Brass_Adventures/Stage.png" alt="BIC 6" style="height:280px;">
         <p style="text-align:center;">The fish. 2</p>
     </div>
 </div>
@@ -62,7 +60,7 @@ Entering I was greeted by Band 2 (Trinity Girls) and the opening of Arkansas by 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass\_Adventures/Spanish\_Hall.png" alt="Areas 1" style="height:300px;">
+        <img src="images/Brass_Adventures/Spanish_Hall.png" alt="Areas 1" style="height:300px;">
         <p style="text-align:center;">Spanish hall at the Winter Gardens theatre. 1</p>
     </div>
 </div>
@@ -73,11 +71,11 @@ The apex of Fodens' rendition however came in the form of their expert blending 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass\_Adventures/Hall.png" alt="Areas 2" style="height:300px;">
+        <img src="images/Brass_Adventures/Hall.png" alt="Areas 2" style="height:280px;">
         <p style="text-align:center;"> 1</p>
     </div>
     <div>
-        <img src="images/Brass\_Adventures/Area\_Stage.png" alt="Areas 3" style="height:300px;">
+        <img src="images/Brass_Adventures/Area_Stage.png" alt="Areas 3" style="height:280px;">
         <p style="text-align:center;"> 2</p>
     </div>
 </div>
@@ -86,7 +84,7 @@ Speaking of judges lets see how I did compared to the only ears that mattered th
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass\_Adventures/BIC\_Stats\_1.png" alt="Areas 4" style="height:300px;">
+        <img src="images/Brass_Adventures/BIC_Stats_1.png" alt="Areas 4" style="height:300px;">
         <p style="text-align:center;">Real judge placing vs my prediction. 1</p>
     </div>
 </div>
@@ -97,18 +95,18 @@ Plotting my ranking against the judges own and the case where you agree with the
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass\_Adventures/BIC\_Stats\_2.png" alt="Areas 5" style="height:300px;">
+        <img src="images/Brass_Adventures/BIC_Stats_2.png" alt="Areas 5" style="height:280px;">
         <p style="text-align:center;">Rescaled placings. 1</p>
     </div>
     <div>
-        <img src="images/Brass\_Adventures/BIC\_Stats\_3.png" alt="Areas 6" style="height:300px;">
+        <img src="images/Brass_Adventures/BIC_Stats_3.png" alt="Areas 6" style="height:280px;">
         <p style="text-align:center;">Residual between the judges and my prediction. 2</p>
     </div>
 </div>
 
 Clearly overall the numbers are more reasonably distributed around the agreement line now, though there are still plenty of bands that I have placed far from the judges ranking too. Still not too bad for a first attempt, but just like with playing music I'll stick to the day job...
 
-While both events were inspiring I am thankful that I was able to attend them in the order I did. Despite the glitz, polished sets and full audiences of BIC the drizzly day in Blackpool also offered plenty of allure even if the surroundings felt like a time capsule. The Winter Gardens lack of amenities is however not the main culprit when it comes to the numbers who attend. This is however only the case as the current audience is from a very small pot of brass banders themselves who want to listen to bands at an event ran by banders. This is in sharp contrast to the very commercial enterprise that is BIC which focuses more heavily on who they attract to the event and what their event offers. Despite some dilapidation in places, the chance to experience the Areas and their deep historical connections with their venues makes the trip worthwhile. This is also something that cannot be easily recreated in shiny new locations and venues especially when they change their name so often... The North West Areas experience is therefore something that should be enjoyed while it is still alive and kicking. Especially given the current rational focus within banding on survival which was highlighted this year passed by the decision to move the spring festival to Birmingham and out of Blackpool. 
+Both events were inspiring however I am thankful that I was able to attend them in the order I did. Despite the glitz, polished sets and full audiences of BIC the drizzly day in Blackpool also offered plenty of allure even if the surroundings felt like a time capsule. The Winter Gardens lack of amenities is however not the main culprit when it comes to the numbers who attend. This is however only the case as the current audience is from a very small pot of brass banders themselves who want to listen to bands at an event ran by banders. This is in sharp contrast to the very commercial enterprise that is BIC which focuses more heavily on who they attract to the event and what their event offers. Despite some dilapidation in places, the chance to experience the Areas and their deep historical connections with their venues makes the trip worthwhile. This is also something that cannot be easily recreated in shiny new locations and venues especially when they change their name so often... The North West Areas experience is therefore something that should be enjoyed while it is still alive and kicking. Especially given the current rational focus within banding on survival which was highlighted this year passed by the decision to move the spring festival to Birmingham and out of Blackpool. 
 
 While these events serve different purposes and have unique battles to fight to ensure their futures, both share an excellent energy spanning from their dedicated volunteers and the bands they serve year round. I thoroughly recommend attendance at both and personally cannot wait to return year on year. No matter which coast you go to you cannot go wrong with a trip to the seaside to hear some great music.
 
