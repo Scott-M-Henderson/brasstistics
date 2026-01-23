@@ -1,5 +1,5 @@
 Title: East to West
-Date: 2025-01-23
+Date: 2026-01-10
 Category: News
 Tags: brass band, stats, Brass in Concert, BIC, Areas
 Slug: east-to-west
