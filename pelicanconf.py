@@ -5,6 +5,7 @@ SITEURL = 'https://brasstistics.co.uk'
 PATH = 'content'
 TIMEZONE = 'Europe/London'
 DEFAULT_LANG = 'en'
+OUTPUT_PATH = 'docs'
 
 THEME = 'themes/notmyidea-cms'
 
