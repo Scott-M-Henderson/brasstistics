@@ -1,8 +1,8 @@
 AUTHOR = 'Scott Henderson'
 SITENAME = 'brasstistics'
-SITEURL = ""
+SITEURL = 'https://brasstistics.co.uk'
 
-PATH = "content"
+PATH = 'content'
 TIMEZONE = 'Europe/London'
 DEFAULT_LANG = 'en'
 

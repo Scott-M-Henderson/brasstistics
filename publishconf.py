@@ -12,6 +12,9 @@ SITEURL = 'https://brasstistics.co.uk'
 RELATIVE_URLS = False
 DELETE_OUTPUT_DIRECTORY = True
 
+OUTPUT_PATH = 'docs'
+DEFAULT_PAGINATION = 10
+
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
