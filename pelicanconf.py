@@ -21,7 +21,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("YouTube", "https://www.youtube.com/@ScottTilYouDrop"),
+    ("YouTube @ScottTilYouDrop", "https://www.youtube.com/@ScottTilYouDrop"),
 )
 
 STATIC_PATHS = ['images', 'extra']

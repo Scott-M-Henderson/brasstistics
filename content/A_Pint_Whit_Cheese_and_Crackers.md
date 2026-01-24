@@ -16,7 +16,7 @@ This year for the theme it was a toss up between Taylor Swift or our friends fro
         <p style="text-align:center;">Hutch.</p>
     </div>
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/Hutch-ish.png" alt="Hutch2" style="height:180px;">
+        <img src="images/A_Pint_Whit_Cheese_and_Crackers/hutchish.png" alt="Hutch2" style="height:180px;">
         <p style="text-align:center;">Hutch-ish.</p>
     </div>
     <div>

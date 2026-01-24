@@ -1,6 +1,6 @@
 Title: Brass-ed From the Past
 Date: 2025-11-03
-Category: News
+Category: Updates
 Tags: brass band, contests, concerts, travel
 Slug: brass-ed-from-the-past
 Author: Scott Henderson
