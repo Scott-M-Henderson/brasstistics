@@ -34,7 +34,7 @@ One treat I got the band this year was a logo for our bass drum. Only a few air 
     </div>
 </div>
 
-This year luckily our coach arrived crash free (long may it continue) to campus and we headed off in the direction of Saddleworth. The circuit this year (and every year) started at Lydgate. Since everyone in the band bar deps are lazy students and prefer to ditch studying early we once again were the first band to arrive leaving time for photos and a drink. Surprisingly the pubs reaction to our costumes was very tame. I can only assume they were disappointed after last year 15 versions of The Mystery Gang barged in for our [Scooby-Doo](https://youtu.be/B4lvu8N0WOw?si=_WcGb2GYpLJBviMP) year.
+This year luckily our coach arrived crash free (long may it continue) to campus and we headed off in the direction of Saddleworth. The circuit this year (and every year) started at Lydgate. Since everyone in the band bar deps are lazy students and prefer to ditch studying early we once again were the first band to arrive leaving time for photos and a drink. Surprisingly the pubs reaction to our costumes was very tame. I can only assume they were disappointed after last year we invaded The White Hart with 15 versions of The Mystery Gang for our [Scooby-Doo](https://youtu.be/B4lvu8N0WOw?si=_WcGb2GYpLJBviMP) theme.
 
 <div style="display: flex; gap: 10px; justify-content: center;">
      <div>
@@ -43,7 +43,7 @@ This year luckily our coach arrived crash free (long may it continue) to campus 
     </div>
 </div>
 
-From Lydgate we moved to Greenfield after a small wrong turn by our bus driver. Even with us going early, we were  not destined to be second or third to play with the cue of bands reaching back to Tescos. Despite how early in the day it was there were plenty bands and even more listeners at both the road march and field. The wait actually worked well however as it allowed me to have a chat with Max Standard who is an alumnus of the band, conductor and composer of one of our UniBrass set pieces ["Into the Future"](https://youtu.be/O5TgPf3UXhs?si=xTXj-Lpl1-5Dq8So).
+From Lydgate we moved to Greenfield after a small wrong turn by our bus driver. Even with us going early, we were  not destined to be second or third to play however due to the cue of bands reaching back to Tescos. Despite how early in the day it was there were plenty bands and even more listeners at both the road march and field. The wait was a positive in the end as it allowed me to have a chat with Max Standard who is an alumnus of the band, conductor and composer of one of our UniBrass set pieces ["Into the Future"](https://youtu.be/O5TgPf3UXhs?si=xTXj-Lpl1-5Dq8So).
 
 From Greenfield to Friezland where our second brass rep and local legend Alex appeared after sitting an exam. Not wishing to lag behind after missing two villages, Alex had brought along with him a box of 60 confetti cannons. This was a complete revelation to the band but we soon got the idea when a cannon exploded at the end of every four bars in the Wallace and Gromit road march. I can only think the cannons must have deafened the adjudicators, because they awarded us the 'Best University Prize' for the first time ever! £100! And I even got a nice mention in the crit.
 
@@ -58,11 +58,11 @@ Next came Uppermill and after pushing our way through the incredible crowd and h
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/bus.png" alt="Dobcross1" style="height:250px;">
+        <img src="images/A_Pint_Whit_Cheese_and_Crackers/bus.png" alt="Dobcross1" style="height:270px;">
         <p style="text-align:center;">I maintain that holding the instrument is 50% of the work.</p>
     </div>
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/top_notes.png" alt="Dobcross2" style="height:250px;">
+        <img src="images/A_Pint_Whit_Cheese_and_Crackers/top_notes.png" alt="Dobcross2" style="height:270px;">
         <p style="text-align:center;">Triple C.</p>
     </div>
 </div>
@@ -80,11 +80,11 @@ Turns out it was Ben Whitehead, voice of Wallace! What are the chances?! Ben was
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/Band_Ben.png" alt="Dobcross3" style="height:240px;">
+        <img src="images/A_Pint_Whit_Cheese_and_Crackers/Band_Ben.png" alt="Dobcross3" style="height:270px;">
         <p style="text-align:center;">Ben with the band... Also my parents... Also some locals...</p>
     </div>
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/Ben.png" alt="Dobcross4" style="height:240px;">
+        <img src="images/A_Pint_Whit_Cheese_and_Crackers/Ben.png" alt="Dobcross4" style="height:270px;">
         <p style="text-align:center;">Not much of a resemblance to Wallace.</p>
     </div>
 </div>
@@ -93,11 +93,11 @@ As the sun began to set we arrived at the obvious best village to finish at, Del
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/DELPH.png" alt="Delph1" style="height:240px;">
+        <img src="images/A_Pint_Whit_Cheese_and_Crackers/DELPH.png" alt="Delph1" style="height:270px;">
         <p style="text-align:center;">View before the chaos. </p>
     </div>
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/Delph_walk.png" alt="Delph2" style="height:240px;">
+        <img src="images/A_Pint_Whit_Cheese_and_Crackers/Delph_walk.png" alt="Delph2" style="height:270px;">
         <p style="text-align:center;">Chaos.</p>
     </div>
 </div>
@@ -106,7 +106,7 @@ The walk down was a treat and ended with the remainder (more than half) of the b
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/long_day.png" alt="Delph3" style="height:240px;">
+        <img src="images/A_Pint_Whit_Cheese_and_Crackers/long_day.png" alt="Delph3" style="height:280px;">
         <p style="text-align:center;">ZzzzZZZzzzZzzzZZz</p>
     </div>
 </div>
