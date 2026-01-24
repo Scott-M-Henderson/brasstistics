@@ -88,16 +88,19 @@ ol {
 }
 
 .post-info {
-    float:right;
-    margin:10px;
-    padding:5px;
+    float: right;
+    clear: right;
 }
 
 .post-info p{
     margin-bottom: 1px;
 }
 
-.readmore { float: right }
+.readmore {
+    float: none;
+    display: block;
+    margin-top: 1em;
+}
 
 dl {margin: 0 0 1.5em 0;}
 dt {font-weight: bold;}
@@ -346,6 +349,12 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	border-bottom: 1px solid #eee;
 	padding: 1.5em 0;
 }
+
+.hentry::after {
+    content: "";
+    display: block;
+    clear: both;
+}
 li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 #content > .hentry {padding: 1em 0;}
 .hentry img{display : none ;}
@@ -364,12 +373,8 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 	#posts-list {list-style: none; margin: 0;}
 	#posts-list .hentry {padding-left: 10px; position: relative;}
 	
-	#posts-list footer {
-		left: 10px;
-		position: relative;
-        float: left;
-		top: 0.5em;
-		width: 190px;
+	#posts-list .hentry {
+	    clear: both;
 	}
 	
 	/* About the Author */
