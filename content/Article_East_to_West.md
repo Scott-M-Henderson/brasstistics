@@ -1,6 +1,6 @@
 Title: East to West
 Date: 2026-01-10
-Category: News
+Category: Articles
 Tags: brass band, stats, Brass in Concert, BIC, Areas
 Slug: east-to-west
 Author: Scott Henderson

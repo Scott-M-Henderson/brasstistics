@@ -1,13 +1,14 @@
 Title: A day at the RNCM International Brass Band Festival
 Date: 2026-01-25
-Category: Article
+Category: Articles
 Tags: brass band, concerts, travel, RNCM
 Slug: rncm-ibbf-2026
 Author: Scott Henderson
 Summary: One and a half wonderful concerts at The RNCM International Brass Band Festival Manchester.
+
 Heading to Manchester for The Royal Northern College of Music [International Brass Band Festival](https://www.rncm.ac.uk/festivals/rncm-international-brass-band-festival/), is another first for me. The event did not disappoint however and my only wish is I had caught more than the snippet I did. With exciting music both old and new being displayed by bands of the highest calibre the event was one that continued to push musical boundaries and raise these bands to the respected position they should hold in all musical circles.
 
-The three day event this year from the 23<sup>rd</sup> to 25<sup>th</sup> of February showcased 11 bands alongside 12 renowned soloists. Of this huge selection I was able to attend the sets of The Tredegar Town and Black Dyke Band on the Saturday. I have to admit that this was a choice mainly made by my own cherry picking of soprano classic "The Land of the Long White Cloud" by Philip Sparke along with the wish to show a visiting American friend new to brass bands la crème de la crème in Black Dyke. Many of the sets at this year's event were penned by Sparke with the festival as a whole celebrating his repertoire and marking his 75<sup>th</sup> birthday year.
+The three day event this year from the 23<sup>rd</sup> to 25<sup>th</sup> of February showcased 11 bands alongside 12 renowned soloists. Of this huge selection I was able to attend the set on Saturday by The Tredegar Town Band and Black Dyke Band. I have to admit that this was a choice mainly made by my own cherry picking of soprano classic "The Land of the Long White Cloud" by Philip Sparke along with the wish to show a visiting American friend new to brass bands la crème de la crème in Black Dyke. Many of the sets at this year's event were penned by Sparke with the festival as a whole celebrating his repertoire and marking his 75<sup>th</sup> birthday year.
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
@@ -20,21 +21,24 @@ Entering the RNCM building it became immediately clear this was an international
 
 Both events were staged inside of the RNCM Concert Hall, which is the larger of the two spaces within the complex, seating ~700. It is no wonder therefore that the bar was crowded and that nearly every seat was occupied. Within the audience there was a clear academic skew with many well known banding faces in attendance from notable members from other bands not performing at the event to conductors, composers. What was refreshing was that this group was also supplemented with members of the public when bands with household names were playing. Speaking to one woman next to me, who did not play an instrument nor recognise the name Tredegar said she attended every year to see Black Dyke. This speaks volumes about the music selected that it can both cater to clientele who require world premieres, boundary pushing commissions and virtuosic solos as well as attracting those who wish to only attend a single concert by their favourite band. As someone closer to the single concert group I awaited Tredegar's set with anticipation for some interesting though perhaps abstract works. And while they did deliver a performance with plenty academic rigour the content and accompanying descriptions before each piece allowed for an informed enjoyment of their works.
 
-<p><strong>Conductor:</strong> Ian Porthouse</p>
+<div style="text-align: center;">
+  <p><strong>Conductor:</strong> Ian Porthouse</p>
 
-<p><strong>Tamsin Crook</strong> – <em>A Spark Forgotten</em></p>
+  <p><strong>Tamsin Crook</strong> – <em>A Spark Forgotten</em></p>
 
-<p><strong>Derek Bourgeois</strong> – <em>Euphonium Concerto</em><br>
-<strong>Soloist:</strong> <em>Glenn Van Looy</em></p>
-<ol>
-  <li>Allegro vivace</li>
-  <li>Lento con moto</li>
-  <li>Allegro molto vivace</li>
-</ol>
+  <p><strong>Derek Bourgeois</strong> – <em>Euphonium Concerto</em><br>
+  <strong>Soloist:</strong> <em>Glenn Van Looy</em></p>
 
-<p><strong>Phil Lawrence</strong> – <em>Melisande</em> <em>(World Premiere)</em></p>
+  <ol>
+    <li>Allegro vivace</li>
+    <li>Lento con moto</li>
+    <li>Allegro molto vivace</li>
+  </ol>
 
-<p><strong>Philip Sparke</strong> – <em>Land of the Long White Cloud</em></p>
+  <p><strong>Phil Lawrence</strong> – <em>Melisande</em> <em>(World Premiere)</em></p>
+
+  <p><strong>Philip Sparke</strong> – <em>Land of the Long White Cloud</em></p>
+</div>
 
 Opening the set was a very recent commission "[A Spark Forgotten](https://www.youtube.com/watch?v=nV3vlYnj8p0)" (2025) composed by <b>Tamsin Crook</b> a cornet and arranger from Cumbria. The piece bursts with a building mysterious energy and has great moments for percussion which shine in a very barren band supporting them. And what a percussion collection it was a group of seven in all black sit at the back though for this piece only four are involved. This gave me a slight Chekhov's percussionist feeling though the payoff would have to wait for another two pieces time. The band built to a driving finish and huge applause which was also offered to Tamsin who was in attendance.
 
@@ -66,25 +70,27 @@ This piece was originally penned as the set work for the New Zealand Brass Band 
 
 After a break for dinner at [Bundobust](https://bundobust.com/), (All veggie Indian tapas well worth a go!), I returned to enjoy a second set by The Black Dyke Band.
 
-<p><strong>Conductor:</strong> Professor Nicholas Childs</p>
+<div style="text-align: center;">
+  <p><strong>Conductor:</strong> Professor Nicholas Childs</p>
 
-<p><strong>Paul Lovatt-Cooper</strong> – <em>Fanfare for Bradford</em></p>
+  <p><strong>Paul Lovatt-Cooper</strong> – <em>Fanfare for Bradford</em></p>
 
-<p><strong>Bruce Broughton</strong> – <em>Wildfire</em> <em>(World Premiere)</em></p>
+  <p><strong>Bruce Broughton</strong> – <em>Wildfire</em> <em>(World Premiere)</em></p>
 
-<p><strong>Philip Sparke</strong> – <em>Gemini</em><br>
-<strong>Soloists:</strong> <em>Tom Hutchinson</em> – cornet, <em>Adam Bokaris</em> – euphonium<br>
-<em>(World Premiere for Brass Band)</em></p>
+  <p><strong>Philip Sparke</strong> – <em>Gemini</em><br>
+  <strong>Soloists:</strong> <em>Tom Hutchinson</em> – cornet, <em>Adam Bokaris</em> – euphonium<br>
+  <em>(World Premiere for Brass Band)</em></p>
 
-<p><strong>Edward Gregson</strong> – <em>Symphony in Two Movements</em></p>
+  <p><strong>Edward Gregson</strong> – <em>Symphony in Two Movements</em></p>
 
-<p><em>~Interval~</em></p>
+  <p><em>~Interval~</em></p>
 
-<p><strong>Simon Dobson</strong> – <em>Percussion Concerto</em><br>
-<strong>Soloist:</strong> <em>Yasuaki Fukuhara</em> – percussion<br>
-<em>(World Premiere)</em></p>
+  <p><strong>Simon Dobson</strong> – <em>Percussion Concerto</em><br>
+  <strong>Soloist:</strong> <em>Yasuaki Fukuhara</em> – percussion<br>
+  <em>(World Premiere)</em></p>
 
-<p>Ottorino Respighi, arr. <strong>Howard Snell</strong> – <em>Feste Romane</em></p>
+  <p>Ottorino Respighi, arr. <strong>Howard Snell</strong> – <em>Feste Romane</em></p>
+</div>
 
 Or at least most of a set... Sadly given my need to not sleep on the streets and Northern Rail's lack of services I was only able to enjoy the first half before treating myself to a rail replacement bus back to Lancaster. Still any opportunity to enjoy Black Dyke is a great treat and this occasion proved no different.
 

@@ -1,6 +1,6 @@
 Title: A Pint Whit Cheese and Crackers
 Date: 2026-01-1
-Category: News
+Category: Articles
 Tags: brass band, stats, Whit Friday, Whit Friday 2025, university
 Slug: whit-friday-2025
 Author: Scott Henderson
