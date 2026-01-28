@@ -6,6 +6,8 @@ Slug: whit-friday-2025
 Author: Scott Henderson
 Summary: Another year another silly costume at Whit Friday! All fine until you start bumping into celebrities...
 
+<!-- PELICAN_END_SUMMARY -->
+
 The greatest free show on earth- or banders Christmas arrived quickly this year, and I’m ashamed to admit that I was unprepared. Normally I have my costume ready well in advance thanks to Lancaster University Brass Band's (ULMS BB) habit of dressing up year-round for bar crawls. Though this year the pesky studying made it hard to start putting one together.
 
 This year for the theme it was a toss up between Taylor Swift or our friends from down the road in Preston, Wallace and Gromit. Though these themes seem a misstep to me when we could have dressed in parkas to celebrate Oasis's return. Though maybe that is just my love for [Cory Brit-Pop](https://open.spotify.com/album/4sBxnCk1CSuMXCHAMIQlTh?si=WUMw7G0ESBuisTollHz1NQ) talking. In the end the brass reps saw sense and this year we dressed as the clay wonders. Which for me meant finding stuff to dress as the rabbit Hutch (not the cornet player)..

@@ -5,6 +5,9 @@ Tags: brass band, stats, Brass in Concert, BIC, Areas
 Slug: east-to-west
 Author: Scott Henderson
 Summary: Brass in Concert to The Areas - My contest re-education
+
+<!-- PELICAN_END_SUMMARY -->
+
 Despite many trips to UniBrass and Whit Friday, 2024-25 was the first year I began to attend the key contests that form the backbone of the banding calendar. It all started when my band Lancaster University won the shield award at UniBrass 2024 in Warwick. In turn, this led to us being invited up to be the Brass in Concert reception band in November 2024. I'm ashamed to say it now given how impactful the event is but it was my first time hearing of BIC (other than the pen...) but I will allow myself some slack given I am a first generation bander trained in a north west non-contesting band. I have to say however that looking back it was well worth the slow cross rail train up to the toon and that it has started a chain reaction which is still in full effect.
 
 <div style="display: flex; gap: 10px; justify-content: center;">

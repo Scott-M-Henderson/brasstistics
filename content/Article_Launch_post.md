@@ -6,5 +6,11 @@ Slug: launch
 Author: Scott Henderson
 Summary: Brass meets stats
 
+
+
+<!-- PELICAN\_END\_SUMMARY -->
+
+
+
 Welcome to \*\*Brasstistics\*\* — a home for analysis and visualization of brass band results!
 

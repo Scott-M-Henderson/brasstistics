@@ -6,6 +6,8 @@ Slug: rncm-ibbf-2026
 Author: Scott Henderson
 Summary: One and a half wonderful concerts at The RNCM International Brass Band Festival Manchester.
 
+<!-- PELICAN_END_SUMMARY -->
+
 Heading to Manchester for The Royal Northern College of Music [International Brass Band Festival](https://www.rncm.ac.uk/festivals/rncm-international-brass-band-festival/), is another first for me. The event did not disappoint however and my only wish is I had caught more than the snippet I did. With exciting music both old and new being displayed by bands of the highest calibre the event was one that continued to push musical boundaries and raise these bands to the respected position they should hold in all musical circles.
 
 The three day event this year from the 23<sup>rd</sup> to 25<sup>th</sup> of February showcased 11 bands alongside 12 renowned soloists. Of this huge selection I was able to attend the set on Saturday by The Tredegar Town Band and Black Dyke Band. I have to admit that this was a choice mainly made by my own cherry picking of soprano classic "The Land of the Long White Cloud" by Philip Sparke along with the wish to show a visiting American friend new to brass bands la crème de la crème in Black Dyke. Many of the sets at this year's event were penned by Sparke with the festival as a whole celebrating his repertoire and marking his 75<sup>th</sup> birthday year.
