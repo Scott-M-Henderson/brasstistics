@@ -10,7 +10,7 @@ Tomorrow I dare to leave Lancaster and head to the big smoke, Manchester, for Th
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Updates/RNCM_Update.png" alt="pride 1" style="height:200px;">
+        <img src="/images/Updates/RNCM_Update.png" alt="pride 1" style="height:200px;">
         <p style="text-align:center;"> </p>
     </div>
 </div>

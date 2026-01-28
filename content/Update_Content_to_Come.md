@@ -10,11 +10,11 @@ While digging into data is the reason we are here on this earth, I also hope to 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/co_park.jpg" alt="pride 1" style="height:280px;">
+        <img src="/images/co_park.jpg" alt="pride 1" style="height:280px;">
         <p style="text-align:center;">Marching with the co.</p>
     </div>
     <div>
-        <img src="images/co_sub.jpg" alt="pride 2" style="height:280px;">
+        <img src="/images/co_sub.jpg" alt="pride 2" style="height:280px;">
         <p style="text-align:center;">Subway with the co.</p>
     </div>
 </div>

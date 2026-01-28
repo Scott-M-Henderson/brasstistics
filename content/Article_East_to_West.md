@@ -9,18 +9,18 @@ Despite many trips to UniBrass and Whit Friday, 2024-25 was the first year I beg
 
 <div style="display: flex; gap: 10px; justify-content: center;">
 	<div>
-        <img src="images/Brass_Adventures/Bridge1.png" alt="BIC 0" style="height:300px;">
+        <img src="/images/Brass_Adventures/Bridge1.png" alt="BIC 0" style="height:300px;">
         <p style="text-align:center;"> Tyne Bridge and the Glasshouse (Sage) the night before BIC.</p>
     </div>
 </div>
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass_Adventures/Bridge2.png" alt="BIC 1" style="height:220px;">
+        <img src="/images/Brass_Adventures/Bridge2.png" alt="BIC 1" style="height:220px;">
         <p style="text-align:center;">Night mode.</p>
     </div>
     <div>
-        <img src="images/Brass_Adventures/Bus.png" alt="BIC 2" style="height:220px;">
+        <img src="/images/Brass_Adventures/Bus.png" alt="BIC 2" style="height:220px;">
         <p style="text-align:center;">Trip sponsored by Go North East.</p>
     </div>
 </div>
@@ -29,11 +29,11 @@ After arriving to the Glasshouse (previously The Sage) our band played a set cov
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass_Adventures/ULMSBB1.png" alt="BIC 3" style="height:280px;">
+        <img src="/images/Brass_Adventures/ULMSBB1.png" alt="BIC 3" style="height:280px;">
         <p style="text-align:center;">ULMS Brass Band in the atrium.</p>
     </div>
     <div>
-        <img src="images/Brass_Adventures/ULMSBB2.png" alt="BIC 4" style="height:280px;">
+        <img src="/images/Brass_Adventures/ULMSBB2.png" alt="BIC 4" style="height:280px;">
         <p style="text-align:center;">ULMS Brass Band performing.</p>
     </div>
 </div>
@@ -44,11 +44,11 @@ The rest of the day was spent in the hall very close to the contest action. Had 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass_Adventures/On_Stage.png" alt="BIC 5" style="height:280px;">
+        <img src="/images/Brass_Adventures/On_Stage.png" alt="BIC 5" style="height:280px;">
         <p style="text-align:center;">Plenty of brass fish in the sea. But they didn't cast the net very far.</p>
     </div>
     <div>
-        <img src="images/Brass_Adventures/Stage.png" alt="BIC 6" style="height:280px;">
+        <img src="/images/Brass_Adventures/Stage.png" alt="BIC 6" style="height:280px;">
         <p style="text-align:center;">The fish.</p>
     </div>
 </div>
@@ -65,7 +65,7 @@ Entering I was greeted by Band 2 (Trinity Girls) and the opening of Arkansas by 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass_Adventures/Spanish_Hall.png" alt="Areas 1" style="height:300px;">
+        <img src="/images/Brass_Adventures/Spanish_Hall.png" alt="Areas 1" style="height:300px;">
         <p style="text-align:center;">The Spanish Hall in the Winter Gardens Theatre.</p>
     </div>
 </div>
@@ -76,11 +76,11 @@ The apex of Fodens' rendition however came in the form of their expert blending 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass_Adventures/Hall.png" alt="Areas 2" style="height:280px;">
+        <img src="/images/Brass_Adventures/Hall.png" alt="Areas 2" style="height:280px;">
         <p style="text-align:center;">A good band must have been playing for the atrium to be this empty. Maybe the bar just opened...</p>
     </div>
     <div>
-        <img src="images/Brass_Adventures/Area_Stage.png" alt="Areas 3" style="height:280px;">
+        <img src="/images/Brass_Adventures/Area_Stage.png" alt="Areas 3" style="height:280px;">
         <p style="text-align:center;">Championship section stage (The Opera House).</p>
     </div>
 </div>
@@ -89,7 +89,7 @@ Speaking of judges lets see how I did compared to the only ears that mattered th
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass_Adventures/BIC_Stats_1.png" alt="Areas 4" style="height:300px;">
+        <img src="/images/Brass_Adventures/BIC_Stats_1.png" alt="Areas 4" style="height:300px;">
         <p style="text-align:center;">Real judge placing vs my prediction.</p>
     </div>
 </div>
@@ -100,11 +100,11 @@ Plotting my ranking against the judges own and the case where you agree with the
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/Brass_Adventures/BIC_Stats_2.png" alt="Areas 5" style="height:280px;">
+        <img src="/images/Brass_Adventures/BIC_Stats_2.png" alt="Areas 5" style="height:280px;">
         <p style="text-align:center;">Rescaled placings.</p>
     </div>
     <div>
-        <img src="images/Brass_Adventures/BIC_Stats_3.png" alt="Areas 6" style="height:280px;">
+        <img src="/images/Brass_Adventures/BIC_Stats_3.png" alt="Areas 6" style="height:280px;">
         <p style="text-align:center;">Residual between the judges and my prediction.</p>
     </div>
 </div>

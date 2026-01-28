@@ -12,15 +12,15 @@ This year for the theme it was a toss up between Taylor Swift or our friends fro
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/Hutch1.png" alt="Hutch1" style="height:180px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/Hutch1.png" alt="Hutch1" style="height:180px;">
         <p style="text-align:center;">Hutch.</p>
     </div>
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/hutchish.png" alt="Hutch2" style="height:180px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/hutchish.png" alt="Hutch2" style="height:180px;">
         <p style="text-align:center;">Hutch-ish.</p>
     </div>
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/Hutch-est.png" alt="Hutch3" style="height:180px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/Hutch-est.png" alt="Hutch3" style="height:180px;">
         <p style="text-align:center;">Hutch-est-Hutch?.</p>
     </div>
 </div>
@@ -29,7 +29,7 @@ One treat I got the band this year was a logo for our bass drum. Only a few air 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
 	<div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/drum.png" alt="BIC 0" style="height:250px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/drum.png" alt="BIC 0" style="height:250px;">
         <p style="text-align:center;"> </p>
     </div>
 </div>
@@ -38,7 +38,7 @@ This year luckily our coach arrived crash free (long may it continue) to campus 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
      <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/band0.png" alt="BIC 0" style="height:300px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/band0.png" alt="BIC 0" style="height:300px;">
         <p style="text-align:center;"> </p>
     </div>
 </div>
@@ -49,7 +49,7 @@ From Greenfield to Friezland where our second brass rep and local legend Alex ap
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/band2.png" alt="Uppermill" style="height:300px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/band2.png" alt="Uppermill" style="height:300px;">
         <p style="text-align:center;">Brace for impact.</p>
     </div>
 </div>
@@ -58,11 +58,11 @@ Next came Uppermill and after pushing our way through the incredible crowd and h
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/bus.png" alt="Dobcross1" style="height:270px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/bus.png" alt="Dobcross1" style="height:270px;">
         <p style="text-align:center;">I maintain that holding the instrument is 50% of the work.</p>
     </div>
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/top_notes.png" alt="Dobcross2" style="height:270px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/top_notes.png" alt="Dobcross2" style="height:270px;">
         <p style="text-align:center;">Triple C.</p>
     </div>
 </div>
@@ -71,7 +71,7 @@ After playing our standing march we were all very surprised when someone with a 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/DobX.png" alt="Dobcross2.5" style="height:300px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/DobX.png" alt="Dobcross2.5" style="height:300px;">
         <p style="text-align:center;">Thanks Cathy!</p>
     </div>
 </div>
@@ -80,11 +80,11 @@ Turns out it was Ben Whitehead, voice of Wallace! What are the chances?! Ben was
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/Band_Ben.png" alt="Dobcross3" style="height:270px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/Band_Ben.png" alt="Dobcross3" style="height:270px;">
         <p style="text-align:center;">Ben with the band... Also my parents... Also some locals...</p>
     </div>
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/Ben.png" alt="Dobcross4" style="height:270px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/Ben.png" alt="Dobcross4" style="height:270px;">
         <p style="text-align:center;">Not much of a resemblance to Wallace.</p>
     </div>
 </div>
@@ -93,11 +93,11 @@ As the sun began to set we arrived at the obvious best village to finish at, Del
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/DELPH.png" alt="Delph1" style="height:270px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/DELPH.png" alt="Delph1" style="height:270px;">
         <p style="text-align:center;">View before the chaos. </p>
     </div>
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/Delph_walk.png" alt="Delph2" style="height:270px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/Delph_walk.png" alt="Delph2" style="height:270px;">
         <p style="text-align:center;">Chaos.</p>
     </div>
 </div>
@@ -106,7 +106,7 @@ The walk down was a treat and ended with the remainder (more than half) of the b
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/A_Pint_Whit_Cheese_and_Crackers/long_day.png" alt="Delph3" style="height:280px;">
+        <img src="/images/A_Pint_Whit_Cheese_and_Crackers/long_day.png" alt="Delph3" style="height:280px;">
         <p style="text-align:center;">ZzzzZZZzzzZzzzZZz</p>
     </div>
 </div>

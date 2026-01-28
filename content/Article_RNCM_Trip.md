@@ -12,7 +12,7 @@ The three day event this year from the 23<sup>rd</sup> to 25<sup>th</sup> of Feb
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/RNCM_Trip_2026/Dyke.png" alt="Welcome" style="height:300px;">
+        <img src="/images/RNCM_Trip_2026/Dyke.png" alt="Welcome" style="height:300px;">
         <p style="text-align:center;">RNCM Concert Hall.</p>
     </div>
 </div>
@@ -29,12 +29,6 @@ Both events were staged inside of the RNCM Concert Hall, which is the larger of 
   <p><strong>Derek Bourgeois</strong> – <em>Euphonium Concerto</em><br>
   <strong>Soloist:</strong> <em>Glenn Van Looy</em></p>
 
-  <ol>
-    <li>Allegro vivace</li>
-    <li>Lento con moto</li>
-    <li>Allegro molto vivace</li>
-  </ol>
-
   <p><strong>Phil Lawrence</strong> – <em>Melisande</em> <em>(World Premiere)</em></p>
 
   <p><strong>Philip Sparke</strong> – <em>Land of the Long White Cloud</em></p>
@@ -44,7 +38,7 @@ Opening the set was a very recent commission "[A Spark Forgotten](https://www.yo
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/RNCM_Trip_2026/Tredegar.png" alt="Tredegar1" style="height:300px;">
+        <img src="/images/RNCM_Trip_2026/Tredegar.png" alt="Tredegar1" style="height:300px;">
         <p style="text-align:center;">RNCM Concert Hall.</p>
     </div>
 </div>
@@ -57,7 +51,7 @@ The piece itself was a delight. The required seven Chekhov's percussionists were
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/RNCM_Trip_2026/Meli.png" alt="Mélisande" style="height:300px;">
+        <img src="/images/RNCM_Trip_2026/Meli.png" alt="Mélisande" style="height:300px;">
         <p style="text-align:center;">Mélisande photo taken from Obrasso.</p>
     </div>
 </div>
@@ -98,7 +92,7 @@ This particular concert was billed to be the high point of the festival with the
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <div>
-        <img src="images/RNCM_Trip_2026/Dyke_BBC.png" alt="Dyke1" style="height:300px;">
+        <img src="/images/RNCM_Trip_2026/Dyke_BBC.png" alt="Dyke1" style="height:300px;">
         <p style="text-align:center;">Black Dyke being introduced for BBC Radio 3.</p>
     </div>
 </div>
@@ -115,7 +109,7 @@ The day trip and review would not be complete however without one last look at a
 
 <div style="display: flex; justify-content: center; gap: 10px;">
     <div style="text-align: center;">
-        <img src="images/RNCM_Trip_2026/Campo.png" alt="Brig" style="height:300px;">
+        <img src="/images/RNCM_Trip_2026/Campo.png" alt="Brig" style="height:300px;">
         <p>Outfit worn in the "queen of your hometown" challenge, episode 1, series 1 of RuPaul's Drag Race UK.</p>
     </div>
 </div>
